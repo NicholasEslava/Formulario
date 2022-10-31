@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">¿Necesitas un trabajo?</string>
+    <string name="titulo">¡Te ayudamos a encontrar uno!</string>
+    <string name="nombre">Nombre</string>
+    <string name="profesion">Profesión</string>
+    <string name="edad">Edad</string>
+    <string name="correo">Correo</string>
+    <string name="btnaceptar">Aceptar</string>
+    <string name="titulo2">Info</string>
+    <string name="btnOk">Ok</string>
+</resources>
